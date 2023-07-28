@@ -26,34 +26,6 @@ Give it permissions to execute:
 
 Create a GitLab CI user 
 
-Table of contents
-----------------
-
-1. Gitlab CI setup with Azure	
-1.1 Install the gitlab runner by using binaries.	
-1.2 Gitlab runner executor, how to install/configure executor.	
-1.1.3 Docker setup in VM	
-1.1.4 If you want to update the GitLab executor. Try this!	
-2. Reference:	
-----------------------------------------------------------------------------------------------------------------
-1. Gitlab CI setup with Azure 
-
-	1.1 Install the gitlab runner by using binaries. 
-
-Simply download one of the binaries for your system:
-
-**sudo curl -L --output /usr/local/bin/gitlab-runner https://gitlab-runner-downloads.s3.amazonaws.com/latest/binaries/gitlab-runner-linux-amd64
-**
-
-
-Give it permissions to execute:
-
-**sudo chmod +x /usr/local/bin/gitlab-runner
-**
-
-
-Create a GitLab CI user 
-
 **sudo useradd --comment 'GitLab Runner' --create-home gitlab-runner --shell /bin/bash
 **
 
