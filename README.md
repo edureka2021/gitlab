@@ -11,7 +11,7 @@
 
 # 1.1.4 If you want to update the GitLab executor. Try this!
 
-3. Reference:	
+# 3. Reference:	
 ----------------------------------------------------------------------------------------------------------------
 1. Gitlab CI setup with Azure 
 
