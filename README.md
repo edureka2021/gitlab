@@ -1,4 +1,4 @@
-Table of contents
+# Table of contents
 ----------------
 
 1. Gitlab CI setup with Azure
