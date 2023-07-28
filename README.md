@@ -3,13 +3,13 @@ Table of contents
 
 1. Gitlab CI setup with Azure
    
-1.1 Install the gitlab runner by using binaries.
+  1.1 Install the gitlab runner by using binaries.
 
-1.2 Gitlab runner executor, how to install/configure executor.	
+  1.2 Gitlab runner executor, how to install/configure executor.	
 
-1.1.3 Docker setup in VM	
+  1.1.3 Docker setup in VM	
 
-1.1.4 If you want to update the GitLab executor. Try this!
+  1.1.4 If you want to update the GitLab executor. Try this!
 
 2. Reference:	
 ----------------------------------------------------------------------------------------------------------------
