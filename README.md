@@ -70,8 +70,7 @@ Now, we are going to add this runner into gitlab runner. For that we must regist
 
 1.2 Gitlab runner executor, how to install/configure executor.
 
-From the given screenshot, check the executor section mentioned, there are various options available. Check the official documentation here.
-Above section, I have chosen ‘docker as gitlab runner executor. That means, github runner will try to authenticate by using docker to login to the server. We can also set up ssh,shell,Kubernetes as runner depends upon the requirement and feasibility. 
+Above section, I have chosen ‘**docker as gitlab runner executor**'. That means, github runner will try to authenticate by using docker to login to the server. We can also set up ssh,shell,Kubernetes as runner depends upon the requirement and feasibility. 
 
 1.1.3 Docker setup in VM
  
@@ -109,9 +108,3 @@ Install and run as service:
 sudo gitlab-runner install --user=gitlab-runner --working-directory=/home/gitlab-runner
 
 sudo gitlab-runner start
-
-
-
-
-
-
