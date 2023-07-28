@@ -49,6 +49,8 @@ Let’s, check if the runner is running or not.
 
 ---------------------------------------------------------- 
 cat /etc/systemd/system/gitlab-runner.service
+
+
 [Unit]
 Description=GitLab Runner
 ConditionFileIsExecutable=/usr/local/bin/gitlab-runner
